@@ -8,8 +8,10 @@
 * $-> ./object_file _IP_Address_ _port_number
 * ex -> ./client localhost 5000
 *
+* 
 * Author - Aman Kanwar
-* Version v1.0
+* New Features: Half duplex Communication, implementation
+* Version v1.o.1
 ***************************************************/
 
 #include<stdio.h>
